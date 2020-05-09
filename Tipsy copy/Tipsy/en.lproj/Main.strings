@@ -1,0 +1,42 @@
+
+/* Class = "UIViewController"; title = "Login Controller"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Login Controller";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "Ewo-dD-Go3"; */
+"Ewo-dD-Go3.normalTitle" = "SIGN UP";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "FqO-vs-3xm"; */
+"FqO-vs-3xm.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "QsV-Sc-kBA"; */
+"QsV-Sc-kBA.normalTitle" = "SIGN UP";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Spf-rZ-1Jd"; */
+"Spf-rZ-1Jd.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Wb6-Dx-YpZ"; */
+"Wb6-Dx-YpZ.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "ACTIVITY"; ObjectID = "XRK-4q-FeQ"; */
+"XRK-4q-FeQ.text" = "ACTIVITY";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Xk8-hd-Pf5"; */
+"Xk8-hd-Pf5.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "bMf-fT-HSU"; */
+"bMf-fT-HSU.normalTitle" = "LOG IN";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "ey0-ug-ByA"; */
+"ey0-ug-ByA.placeholder" = "Confirm Password";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "fwM-eu-ZHG"; */
+"fwM-eu-ZHG.placeholder" = "Password";
+
+/* Class = "UIViewController"; title = "Sign Up Controller"; ObjectID = "q7y-pi-OkH"; */
+"q7y-pi-OkH.title" = "Sign Up Controller";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP WITH GOOGLE"; ObjectID = "xeA-mC-vNU"; */
+"xeA-mC-vNU.normalTitle" = "SIGN UP WITH GOOGLE";
+
+/* Class = "UIViewController"; title = "Landing Page"; ObjectID = "yTd-9w-39O"; */
+"yTd-9w-39O.title" = "Landing Page";
